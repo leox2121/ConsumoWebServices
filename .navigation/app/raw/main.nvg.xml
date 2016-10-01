@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.movil.proaniostalin_pilayricky.consumowebservice.Eliminar"/>
+      <point      
+        x = "-48"      
+        y = "1460"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.movil.proaniostalin_pilayricky.consumowebservice.SplashScreen"/>
+      <point      
+        x = "2228"      
+        y = "3140"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.movil.proaniostalin_pilayricky.consumowebservice.ConsultaIndividual"/>
+      <point      
+        x = "1372"      
+        y = "-20"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.movil.proaniostalin_pilayricky.consumowebservice.ActivityPrincipal"/>
+      <point      
+        x = "500"      
+        y = "100"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.movil.proaniostalin_pilayricky.consumowebservice.Registro"/>
+      <point      
+        x = "1768"      
+        y = "1480"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.movil.proaniostalin_pilayricky.consumowebservice.Consulta"/>
+      <point      
+        x = "2208"      
+        y = "20"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.movil.proaniostalin_pilayricky.consumowebservice.Modificar"/>
+      <point      
+        x = "928"      
+        y = "2280"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
